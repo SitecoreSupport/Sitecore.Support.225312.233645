@@ -1,5 +1,7 @@
 # Sitecore.Support.225312.233645
-Merged
+Merged:
+225312 - Mixed Content Error when logging in
+233645 - Mixed Content Error when redirected to LicenseOptions
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.225312.233645/blob/master/LICENSE).  
